@@ -1,0 +1,7 @@
+DUE: Monday, 13 March 2017, 11:55 PM
+1. Report page includes 10 different queries using a variety of qualifiers and aggregate functions (50pts)
+2. The description of each report is included (e.g., Report of all orders submitted in September) (10pts)
+3. The actual SELECT statement is displayed above the data (10pts)
+4. The data for each report is displayed within an HTML Table (10pts)
+5. The code to generate each report is included within its own function (10pts)
+6. An external CSS file is included (10pts)
